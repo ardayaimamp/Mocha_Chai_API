@@ -1,0 +1,16 @@
+{
+  "name": "tugasapimasdhony",
+  "version": "1.0.0",
+  "description": "Task Mas Dhony",
+  "main": "index.js",
+  "scripts": {
+    "gaps": "npx mocha tests/**/*.js"
+  },
+  "author": "Ardaya Imam Pratama",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
